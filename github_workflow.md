@@ -1,10 +1,14 @@
 # GitHub workflow
 
-HemengoDistrib Back\_end application  with Docker, Mysql, NodeJs.
+HemengoDistrib workflow.
 
+<div align="left">
 
+<figure><img src=".gitbook/assets/Screenshot_20230703_145901.png" alt="" width="375"><figcaption></figcaption></figure>
 
-## Make your feature
+</div>
+
+## How to make your feature
 
 #### 1. Make sure your are on the develop brach
 
@@ -61,41 +65,6 @@ HemengoDistrib Back\_end application  with Docker, Mysql, NodeJs.
 
 ```bash
     git push origin develop
-```
-
-## Run on Development mode:
-
-This will install all dependencies
-
-```bash
-    ./run_dev
-```
-
-Development utilities:
-
-* [nodemon](https://www.npmjs.com/package/nodemon)
-  * nodemon is a tool that helps develop node.js based applications by automatically restarting the node application when file changes in the directory are detected.
-* [eslint](https://www.npmjs.com/package/eslint)
-  * ESLint is a tool for identifying and reporting on patterns found in ECMAScript/JavaScript code.
-* [mocha](https://www.npmjs.com/package/mocha)
-  * ☕️ Simple, flexible, fun JavaScript test framework for Node.js & The Browser ☕️
-
-
-
-## Testing
-
-We're using Mocha and Chai for unit tests.
-
-#### Test unit mode:
-
-```bash
-    ./run_test_unit
-```
-
-#### Test integration mode:
-
-```bash
-    ./run_test_int
 ```
 
 ## This Readme:
