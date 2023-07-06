@@ -4,3 +4,4 @@
 * [Backend\_API](backend.md)
 * [GitHub workflow](github\_workflow.md)
 * [Front\_end](frontend.md)
+* [stock](stock.md)
