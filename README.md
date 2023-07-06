@@ -1,8 +1,14 @@
-# Documentation du projet HemengoDistrib
+# Projet HemengoDistrib
 
-<figure><img src=".gitbook/assets/Screenshot_20230608_084139.png" alt="hemengo"><figcaption></figcaption></figure>
 
-Bienvenue dans la documentation du projet HemengoDistrib. Cette documentation vise à fournir une vue d'ensemble du projet, ainsi que des informations détaillées sur son architecture, son fonctionnement et sa mise en œuvre.
+
+<div align="left">
+
+<figure><img src=".gitbook/assets/Screenshot_20230608_084139.png" alt="hemengo" width="382"><figcaption></figcaption></figure>
+
+</div>
+
+Cette documentation vise à fournir une vue d'ensemble du projet, ainsi que des informations détaillées sur son architecture, son fonctionnement et sa mise en œuvre.
 
 ### À propos du projet
 

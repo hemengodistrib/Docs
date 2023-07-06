@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Documentation HemengoDistrib](README.md)
+* [Projet HemengoDistrib](README.md)
 * [Backend\_API](backend.md)
 * [Front\_end](frontend.md)
 * [stock](stock.md)
