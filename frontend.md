@@ -38,7 +38,7 @@ git checkout develop
 This will install all dependencies
 
 ```bash
-    ./run-ci_dev
+    ./run_dev
 ```
 
 Development utilities:
