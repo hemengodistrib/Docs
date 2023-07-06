@@ -4,7 +4,7 @@ HemengoDistrib workflow.
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/Screenshot_20230703_145901.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot_20230703_145901.png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
