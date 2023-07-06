@@ -6,16 +6,16 @@ HemengoDistrib Back\_end application  with Docker, Mysql, NodeJs.
 
 ## Make your feature
 
-#### 1.  Make sure your are on the develop brach
+#### 1. Make sure your are on the develop brach
 
 ```bash
     git checkout develop
 ```
 
-#### 2. Update your branch
+#### 2.Update your develop branch
 
 ```bash
-    git pull
+    git pull origin develop
 ```
 
 **3.Create your feature branch**
@@ -24,10 +24,43 @@ HemengoDistrib Back\_end application  with Docker, Mysql, NodeJs.
     git checkout -b feature/1.0.5
 ```
 
-**4.Make your change**
+**4.Make your changes**
+
+<div align="left">
+
+<figure><img src=".gitbook/assets/Screenshot_20230627_152856.png" alt="" width="188"><figcaption></figcaption></figure>
+
+</div>
+
+**5.Commit your changes**
 
 ```bash
-git checkout develop
+    git add .
+    git commit -m "Add fonction XXX"
+```
+
+**6.Checkout to develop branch**
+
+```bash
+    git checkout develop
+```
+
+**7.Update your develop branch**
+
+```bash
+    git pull origin develop
+```
+
+**8.merge**
+
+```bash
+    git merge --no-ff feature/1.05
+```
+
+**10.Push develop to GitHub**
+
+```bash
+    git push origin develop
 ```
 
 ## Run on Development mode:
