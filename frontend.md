@@ -72,8 +72,8 @@ We're using Mocha and Chai for unit tests.
 
 direct link:
 
-[https://hemengodistrib.gitbook.io/readme/](https://hemengodistrib.gitbook.io/readme/)
+[https://hemengodistrib.gitbook.io/docs/](https://hemengodistrib.gitbook.io/docs/)
 
 Edition link:
 
-[https://app.gitbook.com/o/y6FaMG4lcnLoVhxgPu5B/s/qDSVtzkRBF5vWhG5slnf/](http://localhost:5000/o/y6FaMG4lcnLoVhxgPu5B/s/qDSVtzkRBF5vWhG5slnf/)
+[https://app.gitbook.com/o/y6FaMG4lcnLoVhxgPu5B/s/mtYFr2ObFGBEttW5x7HN](http://localhost:5000/o/y6FaMG4lcnLoVhxgPu5B/s/mtYFr2ObFGBEttW5x7HN/)
