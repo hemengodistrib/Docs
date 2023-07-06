@@ -25,18 +25,18 @@ HemengoDistrib Back\_end application  with Docker, Mysql, NodeJs.
 <pre class="language-bash"><code class="lang-bash"><strong>    code .
 </strong></code></pre>
 
-##
+**5.Open a Vs code terminal**&#x20;
 
-5.Open a Vs code terminal git checkout develop
-
-Connexion à la branche develop:
+```bash
+git checkout develop
+```
 
 ## Run on Development mode:
 
 This will install all dependencies
 
 ```bash
-    ./run-ci_dev
+    ./run_dev
 ```
 
 Development utilities:
