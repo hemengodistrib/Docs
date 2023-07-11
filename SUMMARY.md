@@ -10,3 +10,4 @@
 * [Configuration et déploiement ](configuration-et-deploiement.md)
 * [Utilisation de l'application](utilisation-de-lapplication.md)
 * [Maintenance et gestion](maintenance-et-gestion.md)
+* [Swagger](http://nicdu40.mooo.com:30000/api/doc/#/)
